@@ -53,7 +53,7 @@ router.post("/", async(req, res) => {
 });
 
 
-// UPDATE user  ⭐ (PHẦN BẠN THIẾU)
+// UPDATE user  
 router.put("/:id", async(req, res) => {
     try {
 
